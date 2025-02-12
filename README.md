@@ -1,5 +1,5 @@
-# VBA-challenge
-I have quarterly results of multiple years of stock data. I will use VBA scripting to analyze stock market data. 
+# Quartlerly Stock Analysis
+This project analyzes the quarterly stock data for 2022, using VBA.
 
 ## Instructions
 My goal is to create a script that loops through all the stocks for each quarter and outputs the following information:
@@ -12,6 +12,7 @@ My goal is to create a script that loops through all the stocks for each quarter
 - VBA script should be running for every quarter (each quarter is a worksheet) at once
 - Use conditional formatting that will highlight positive change in green and negative change in red in Quarterly Change
 
+Review of Q1 data: <br>
 ![Quarter 1 Data](https://github.com/skythelimitdt/VBA-challenge/blob/main/Q1_visual.png)
 
 ## Tech Stack
